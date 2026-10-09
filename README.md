@@ -38,8 +38,8 @@ SistamaBancarioOO-Senac/
 
 ### Pré-requisitos
 
-- Visual Studio instalado.
-- SDK do .NET compatível com o projeto.
+Visual Studio 2022 instalado.
+SDK do .NET 8.0 instalado. ``
 
 ### Passo a passo
 
